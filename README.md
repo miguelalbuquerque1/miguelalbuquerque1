@@ -4,6 +4,7 @@
 
 - 🎓 Bachelor's degree in information systems at the Federal University of Mato Grosso do Sul (UFMS).
 - 📚 I'm currently studying Python, javascript, C, C++, game development in gamemaker and godot.
+- ✏️ Student Alura.
 - 💡 I'm looking for new opportunities...
 - ✨ Passionate about game development, programming and all areas of computing.
 - 🏡 Campo Grande, Brazil.
@@ -42,6 +43,7 @@
 
 - 🎓 Cursando Bacharelado em Sistemas de informação na Universidade Federal de Mato Grosso do Sul (UFMS).
 - 📚 Atualmente estou estudando Python, javascript, C, C++, desenvolvimento de jogos no gamemaker ee godot.
+- ✏️ Aluno Alura.
 - 💡 Procurando por novas oportunidades...
 - ✨ Apaixonado por desenvolvimento de jogos, programação e todas as áreas da computação.
 - 🏡 Campo Grande, Brasil.

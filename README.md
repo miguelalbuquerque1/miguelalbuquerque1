@@ -2,7 +2,7 @@
 ## My name is Miguel S. de Albuquerque!
 
 
-- 🎓 Bachelor's degree in information systems at the Federal University of Mato Grosso do Sul (UFMS).
+- 🎓 Studying for a Bachelor's degree in Information Systems at the Federal University of Mato Grosso do Sul (UFMS).
 - 📚 I'm currently studying Python, javascript, C, C++, game development in gamemaker and godot.
 - ✏️ Student Alura.
 - 💡 I'm looking for new opportunities...
